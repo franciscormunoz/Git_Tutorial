@@ -1,14 +1,15 @@
 This file contains several of the basic git commands we've discussed in
-the Git Tutorial so far. Some of the definitions are mismatched: 
-correct them!
+the Git Tutorial so far. The definitions have been matched - check your 
+work!
 
 [vocab] : [definition]
 -----------------------------------------------------------------------
 
-git init : Commit your staged content as a new commit snapshot
+git init : Creates an empty repository
 
-git add [file] : Creates an empty repository
+git add [file] : Stages [file] for the next commit
 
-git commit : Shows commit logs
+git commit : Commit your staged content as a new commit snapshot
 
-git log : Stages [file] for the next commit
+git log : Shows commit logs
+
