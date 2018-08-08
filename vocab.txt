@@ -1,0 +1,14 @@
+This file contains several of the basic git commands we've discussed in
+the Git Tutorial so far. Some of the definitions are mismatched: 
+correct them!
+
+[vocab] : [definition]
+-----------------------------------------------------------------------
+
+git init : Commit your staged content as a new commit snapshot
+
+git add [file] : Creates an empty repository
+
+git commit : Shows commit logs
+
+git log : Stages [file] for the next commit
